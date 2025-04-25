@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya-code17" alt="ananya-code17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/isha171105" target="blank"><img src="https://img.shields.io/twitter/follow/isha171105?logo=twitter&style=for-the-badge" alt="isha171105" /></a> </p>
-
 - 🔭 I’m currently working on **developing an automated system for university sports team**
 
 - 🌱 I’m currently learning **more about advanced front-end frameworks (React) and exploring back-end development**
@@ -35,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-code17&show_icons=true&locale=en&layout=compact" alt="ananya-code17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-code17&show_icons=true&locale=en" alt="ananya-code17" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-code17&" alt="ananya-code17" /></p>
