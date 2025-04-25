@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-code17&show_icons=true&locale=en&layout=compact" alt="ananya-code17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-code17&show_icons=true&locale=en" alt="ananya-code17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-code17&" alt="ananya-code17" /></p>
