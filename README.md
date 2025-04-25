@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-code17&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-code17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya-code17" alt="ananya-code17" /></a> </p>
-
 - 🔭 I’m currently working on **developing an automated system for university sports team**
 
 - 🌱 I’m currently learning **more about advanced front-end frameworks (React) and exploring back-end development**
