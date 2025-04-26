@@ -1,9 +1,10 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+
   <div>
     <h1>Hi 👋, I'm Ananya Joshi!</h1>
     <h3>I'm a B.Tech CSE 2nd-year student passionate about data science, machine learning, and full-stack development</h3>
   </div>
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="300"/>
+  <img align="right" alt="coding" width="400" src="http://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-code17&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-code17" /> </p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-code17&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-code17" /> </p>
