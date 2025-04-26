@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Ananya.122866@stu.upes.ac.in**
 
-- ⚡ Fun fact **: Coffee = compile time boost.**
+- ⚡ Fun fact **Coding from Dev Bhoomi (Uttarakhand)! ⛰️💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
