@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <div>
-    <h1>Hi 👋, I'm Ananya Joshi!</h1>
+    <h1>Hi 👋, I'm ANANYA JOSHI</h1>
     <h3>I'm a B.Tech CSE 2nd-year student passionate about data science, machine learning, and full-stack development</h3>
   </div>
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="300"/>
