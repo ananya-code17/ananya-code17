@@ -3,8 +3,7 @@
     <h1>Hi 👋, I'm ANANYA JOSHI</h1>
     <h3>I'm a B.Tech CSE 2nd-year student passionate about data science, machine learning, and full-stack development</h3>
   </div>
-  <!-- Replace the URL below with your actual GIF link -->
-  <img src="https://github.com/your-username/your-repository/raw/main/vertical-text.gif" alt="Vertical Text Animation" width="300"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="300"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-code17&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-code17" /> </p>
